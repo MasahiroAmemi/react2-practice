@@ -1,6 +1,6 @@
 import React from 'react';
 // Languageコンポーネントをインポートする
-import Language from "./Language"
+import Language from "./Language2"
 
 class App extends React.Component {
   render() {
