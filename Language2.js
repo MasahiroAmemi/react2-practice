@@ -11,5 +11,5 @@ class Language extends React.Component {
   }
 }
 
-// Languageコンポーネントをエクスポートする
+// Languageコンポーネントをエクスポートする.
 export default Language;
